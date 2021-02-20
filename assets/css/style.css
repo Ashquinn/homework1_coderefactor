@@ -59,7 +59,7 @@ p {
     background-position: center;
 }
 
-main div {
+.content div {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
