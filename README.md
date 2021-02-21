@@ -7,3 +7,7 @@ The CSS file and the HTML both have been edited and refactored. The HTMl file ha
 All the links in the nav bar are now functioning properly. Each one navigating to its respective location. 
 
 Commnets have been added to the CSS file to state the explicit changes made.
+
+Deployed webpage can be found here: (https://ashquinn.github.io/homework1_coderefactor/). 
+
+Webpage can be viewed here: [Web preview image](./assets/images/homework01_screenshot.png) 
